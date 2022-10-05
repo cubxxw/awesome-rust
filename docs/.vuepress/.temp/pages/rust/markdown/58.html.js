@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-1ea50468\",\"path\":\"/rust/markdown/58.html\",\"title\":\"第58节\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"END 链接\",\"slug\":\"end-链接\",\"link\":\"#end-链接\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"rust/markdown/58.md\"}")
