@@ -1,7 +1,7 @@
 <template><div><ul>
 <li><a href="https://github.com/3293172751/awesome-rust" target="_blank" rel="noopener noreferrer">author<ExternalLinkIcon/></a></li>
 </ul>
-<h1 id="第1节" tabindex="-1"><a class="header-anchor" href="#第1节" aria-hidden="true">#</a> 第1节</h1>
+<h1 id="第1节-window安装rust" tabindex="-1"><a class="header-anchor" href="#第1节-window安装rust" aria-hidden="true">#</a> 第1节 window安装rust</h1>
 <div><a href = '0.md' style='float:left'>⬆️上一节🔗</a><a href = '2.md' style='float: right'>⬇️下一节🔗</a></div>
 <br>
 <blockquote>
@@ -10,7 +10,6 @@
 <hr>
 <p>[TOC]</p>
 <h2 id="window安装rust" tabindex="-1"><a class="header-anchor" href="#window安装rust" aria-hidden="true">#</a> window安装rust</h2>
-<h1 id="rust-for-windows" tabindex="-1"><a class="header-anchor" href="#rust-for-windows" aria-hidden="true">#</a> Rust for Windows</h1>
 <p>Rust 支持主流的操作系统，Linux,Mac和 Windows。</p>
 <p>Rust在Windows上的安装和你在windows上安装其它软件一样。</p>
 <h3 id="_1、下载安装包" tabindex="-1"><a class="header-anchor" href="#_1、下载安装包" aria-hidden="true">#</a> 1、下载安装包：</h3>
@@ -19,7 +18,7 @@
 <h3 id="_2、安装" tabindex="-1"><a class="header-anchor" href="#_2、安装" aria-hidden="true">#</a> 2、安装：</h3>
 <p>双击下载到的安装包，如下图所示：</p>
 <p>默认，rust将安装到所有用户下，选择“Advanced”，可以指定安装用户和安装路径。然后点击”install”等待几分钟即可（中间可能会有安全提示，点击允许即可，如果你装了360之类的，需要小心360阻止写入注册表）。</p>
-<h3 id="_3-验证安装" tabindex="-1"><a class="header-anchor" href="#_3-验证安装" aria-hidden="true">#</a> 3.验证安装：</h3>
+<h3 id="_3、验证安装" tabindex="-1"><a class="header-anchor" href="#_3、验证安装" aria-hidden="true">#</a> 3、验证安装：</h3>
 <p>安装完成后，运行windows命令行，然后输入:</p>
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>rustc --version
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>看到 以 <strong>rustc 1.6.0</strong> 开头，说明你安装成功了。</p>
@@ -124,6 +123,8 @@ y
 Current installation options:
 
 
+
+
    default <span class="token function">host</span> triple: x86_64-pc-windows-msvc
      default toolchain: nightly
                profile: minimal
@@ -133,7 +134,7 @@ Current installation options:
 <span class="token number">2</span><span class="token punctuation">)</span> Customize installation
 <span class="token number">3</span><span class="token punctuation">)</span> Cancel installation
 <span class="token operator">></span><span class="token number">1</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="使用的开发工具" tabindex="-1"><a class="header-anchor" href="#使用的开发工具" aria-hidden="true">#</a> 使用的开发工具</h2>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="使用的开发工具" tabindex="-1"><a class="header-anchor" href="#使用的开发工具" aria-hidden="true">#</a> 使用的开发工具</h2>
 <ul>
 <li>vscode – rust插件</li>
 <li>clion(intellj idea) 用来开发C/C++的项目</li>

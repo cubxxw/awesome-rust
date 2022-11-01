@@ -49,8 +49,19 @@
 <div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">cargo</span> <span class="token parameter variable">--version</span>
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div></blockquote>
 <h2 id="cargo创建项目" tabindex="-1"><a class="header-anchor" href="#cargo创建项目" aria-hidden="true">#</a> cargo创建项目</h2>
-<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>cargo new hello_carg
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="end-链接" tabindex="-1"><a class="header-anchor" href="#end-链接" aria-hidden="true">#</a> END 链接</h2>
+<blockquote>
+<p>创建项目<code v-pre>hello_cargo</code>，目录也是<code v-pre>hello_cargo</code></p>
+</blockquote>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>cargo new hello_cargo
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p><code v-pre>[pacakge]</code>,是一个包的声明，它告诉Rust编译器这个源文件是一个包的一部分。</p>
+<ul>
+<li><code v-pre>name</code>：包的名称，这个名称必须是唯一的。</li>
+<li><code v-pre>version</code>：包的版本号，这个版本号必须是有效的语义版本号。</li>
+<li><code v-pre>authors</code>：包的作者列表，这个列表是一个字符串数组。</li>
+<li><code v-pre>license</code>：包的许可证，这个许可证必须是有效的SPDX许可证标识符。</li>
+<li><code v-pre>edition</code>：包的版本，这个版本必须是有效的Rust版本号。</li>
+</ul>
+<h2 id="end-链接" tabindex="-1"><a class="header-anchor" href="#end-链接" aria-hidden="true">#</a> END 链接</h2>
 <ul><li><div><a href = '1.md' style='float:left'>⬆️上一节🔗</a><a href = '3.md' style='float: right'>⬇️下一节🔗</a></div></li></ul>
 <ul>
 <li>

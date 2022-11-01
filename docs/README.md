@@ -4,11 +4,14 @@ lang: zh-CN
 title: Cub链学社（c-universal blockchain）
 description: docker学习
 heroImage: https://sm.nsddd.top//typora/logo_transparent.png?mail:3293172751@qq.com
-heroText: xiongxinwei
+heroText: Go语言篇
 tagline: 链学社在保障用户安全，信息的完整性同时为大众带来更多的选择，笔记分享，视频分享，版权保护，以及其他的关于学信数据、电子证书、荣誉证明、成绩证明、信息授权的相关工具。
 actions:
-  - text: docker文档
-    link: /markdown/README.md
+  - text: Go语言基础篇学习
+    link: /markdown/1
+    type: primary
+  - text: Go语言高级篇学习
+    link: /Gomd_super/
     type: primary
   - text: 链学社CUB
     link: https://github.com/C-UB/.github/blob/master/README.md
@@ -31,18 +34,73 @@ features:
 footer: 链学社 | Copyright © 2022-present Evan You
 ---
 
-## ⚡为什么要学习 Decker？
-
-> Docker 是世界领先的软件容器平台。
-> 开发人员利用 Docker 可以消除协作编码时“在我的机器上可正常工作”的问题。
-> 运维人员利用 Docker 可以在隔离容器中并行运行和管理应用，获得更好的计算密度。
-> 企业利用 Docker 可以构建敏捷的软件交付管道，以更快的速度、更高的安全性和可靠的信誉为 Linux 和 Windows Server 应用发布新功能。
 
 
+## awesome-rust
 
-## 🎈怎么学习docker
+**区块链技术（也称之为分布式账本技术）**，是一种互联网数据库技术，其特点是去中心化，公开透明，让每一个人均可参与的数据库记录
 
-> 学习docker之前最好有下面基础
+>   ❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客[http://nsddd.top](http://nsddd.top)
+>
+>   <a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="我的区块链代码时长"> <img src="./images/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg+xml"> </a>
+
+---
+
+# 🚸 Rust
+
+![下载](http://sm.nsddd.top/sm%E4%B8%8B%E8%BD%BD.pngmail3293172751@qq.png?xxw@nsddd.top)
+
+## ⚡前言
+
+::: warning 为什么要学习rust?
+:cloud_with_lightning_and_rain:Rust是一种令人兴奋的新编程语言，它可以让每一个人编写可靠且高效的软件。
+
+⚡Rust可以替换C/C++，Rust和它们具有同样的性能，但是很多常见的bug在编译时候就可以被消灭。
+
+ 🔥Rust是一种通用的编程语言，但是它更善于以下的场景：
+
++ 需要运行时的速度
++ 需要内存安全
++ 更好的利用多处理器
+
+:::
+
+
+
+::: tip Rust和其他语言的比较
+C/C++ 性能非常好，但是类型系统和内存都不太安全
+
+java/C# 拥有GC，能够保证内存安全，也拥有很多优秀特性，但是性能不行
+
+🚸 Rust：
+
++ 安全
++ 无需GC
++ 易于维护、调试、代码安全高效
+
+:::
+
+
+
+::: warning 擅长的领域
+ ⚠️或许这将会是你后期会考虑到的
+
++ 高性能web Service
++ WebAssembly
++ 命令行工具
++ 网络编程
++ 嵌入式设备
++ 系统编程
+
+> 但 Rust 并不局限于底层系统编程。它表达力强、写起来舒适，让人能够轻松地编写出命令行应用、网络服务器等各种类型的代码——在本书中就有这两者的简单示例。使用 Rust 能让你把在一个领域中学习的技能延伸到另一个领域：你可以通过编写网页应用来学习 Rust，接着将同样的技能应用到你的 Raspberry Pi（树莓派）上。
+
+:::
+
+
+
+## 🎈或如你可以选择
+
+> 学习rust之前或许你可以看看
 >
 > + [x] [计算机网络 – TCP/IP – 抓包 – Linux网络编程](https://github.com/3293172751/Block_Chain/blob/master/web/README.md) （有一点网络基础就好）
 > + [x] [有Linux的基础](https://github.com/3293172751/CS_COURSE/blob/master/linux/README.md)
@@ -56,12 +114,31 @@ footer: 链学社 | Copyright © 2022-present Evan You
 
 
 
+::: tip 为什么会突发奇想
+一切都是可以串联出来的，从C –> OS
+
+从 go –> OS (对标[mit的Go语言os](https://pdos.csail.mit.edu/projects/biscuit.html))  
+
+> 能跑gcc、nginx、redis、且和Linux差百分之五到百分之十。
+
+从rust –> OS (对标斯坦福的CS140e)
+
+> 甚至可以在我喜欢的树莓派上面运行
+
+从blockchain –> 
+
+:::
+
+
+
 ::: danger 提醒
-⚠️ 注意：脑图页面可能没办法正常渲染，建议在下面📵[**不限速在线个人云盘**](https://xxw.nsddd.top/s/wRSz)里面找到docker脑图
+⚠️ 注意：在这里我要隆重介绍下：清华大学rcore操作系统~ 用rust实现os~
 
-[ 🖱️脑图下载](/markdown/脑图笔记)
+正如author（王润基）所说，rust带我走进了新世界的大门。
 
-图片当初是用sm图库，对于小时访问量有限制，后期会慢慢转到服务器中。
+ 🖱️[rcore操作系统](https://github.com/rcore-os/rCore-Tutorial-v3)
+
+我会慢慢的、慢慢的走近你的心里（u~os）
 
 :::
 

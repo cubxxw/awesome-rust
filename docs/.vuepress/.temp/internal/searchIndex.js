@@ -4,16 +4,23 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "⚡为什么要学习 Decker？",
-        "slug": "⚡为什么要学习-decker",
-        "link": "#⚡为什么要学习-decker",
+        "title": "awesome-rust",
+        "slug": "awesome-rust",
+        "link": "#awesome-rust",
         "children": []
       },
       {
         "level": 2,
-        "title": "🎈怎么学习docker",
-        "slug": "🎈怎么学习docker",
-        "link": "#🎈怎么学习docker",
+        "title": "⚡前言",
+        "slug": "⚡前言",
+        "link": "#⚡前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🎈或如你可以选择",
+        "slug": "🎈或如你可以选择",
+        "link": "#🎈或如你可以选择",
         "children": []
       },
       {
@@ -143,7 +150,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "第1节",
+    "title": "第1节 window安装rust",
     "headers": [
       {
         "level": 2,
@@ -167,9 +174,9 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "3.验证安装：",
-            "slug": "_3-验证安装",
-            "link": "#_3-验证安装",
+            "title": "3、验证安装：",
+            "slug": "_3、验证安装",
+            "link": "#_3、验证安装",
             "children": []
           }
         ]

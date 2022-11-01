@@ -1,13 +1,50 @@
-<template><div><h2 id="⚡为什么要学习-decker" tabindex="-1"><a class="header-anchor" href="#⚡为什么要学习-decker" aria-hidden="true">#</a> ⚡为什么要学习 Decker？</h2>
+<template><div><h2 id="awesome-rust" tabindex="-1"><a class="header-anchor" href="#awesome-rust" aria-hidden="true">#</a> awesome-rust</h2>
+<p><strong>区块链技术（也称之为分布式账本技术）</strong>，是一种互联网数据库技术，其特点是去中心化，公开透明，让每一个人均可参与的数据库记录</p>
 <blockquote>
-<p>Docker 是世界领先的软件容器平台。
-开发人员利用 Docker 可以消除协作编码时“在我的机器上可正常工作”的问题。
-运维人员利用 Docker 可以在隔离容器中并行运行和管理应用，获得更好的计算密度。
-企业利用 Docker 可以构建敏捷的软件交付管道，以更快的速度、更高的安全性和可靠的信誉为 Linux 和 Windows Server 应用发布新功能。</p>
+<p>❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客<a href="http://nsddd.top" target="_blank" rel="noopener noreferrer">http://nsddd.top<ExternalLinkIcon/></a></p>
+<p><a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="我的区块链代码时长"> <img src="@source/images/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg+xml"> </a></p>
 </blockquote>
-<h2 id="🎈怎么学习docker" tabindex="-1"><a class="header-anchor" href="#🎈怎么学习docker" aria-hidden="true">#</a> 🎈怎么学习docker</h2>
+<hr>
+<h1 id="🚸-rust" tabindex="-1"><a class="header-anchor" href="#🚸-rust" aria-hidden="true">#</a> 🚸 Rust</h1>
+<p><img src="http://sm.nsddd.top/sm下载.pngmail3293172751@qq.png?xxw@nsddd.top" alt="下载"></p>
+<h2 id="⚡前言" tabindex="-1"><a class="header-anchor" href="#⚡前言" aria-hidden="true">#</a> ⚡前言</h2>
+<div class="custom-container warning"><p class="custom-container-title">为什么要学习rust?</p>
+<p>⛈️Rust是一种令人兴奋的新编程语言，它可以让每一个人编写可靠且高效的软件。</p>
+<p>⚡Rust可以替换C/C++，Rust和它们具有同样的性能，但是很多常见的bug在编译时候就可以被消灭。</p>
+<p>🔥Rust是一种通用的编程语言，但是它更善于以下的场景：</p>
+<ul>
+<li>需要运行时的速度</li>
+<li>需要内存安全</li>
+<li>更好的利用多处理器</li>
+</ul>
+</div>
+<div class="custom-container tip"><p class="custom-container-title">Rust和其他语言的比较</p>
+<p>C/C++ 性能非常好，但是类型系统和内存都不太安全</p>
+<p>java/C# 拥有GC，能够保证内存安全，也拥有很多优秀特性，但是性能不行</p>
+<p>🚸 Rust：</p>
+<ul>
+<li>安全</li>
+<li>无需GC</li>
+<li>易于维护、调试、代码安全高效</li>
+</ul>
+</div>
+<div class="custom-container warning"><p class="custom-container-title">擅长的领域</p>
+<p>⚠️或许这将会是你后期会考虑到的</p>
+<ul>
+<li>高性能web Service</li>
+<li>WebAssembly</li>
+<li>命令行工具</li>
+<li>网络编程</li>
+<li>嵌入式设备</li>
+<li>系统编程</li>
+</ul>
 <blockquote>
-<p>学习docker之前最好有下面基础</p>
+<p>但 Rust 并不局限于底层系统编程。它表达力强、写起来舒适，让人能够轻松地编写出命令行应用、网络服务器等各种类型的代码——在本书中就有这两者的简单示例。使用 Rust 能让你把在一个领域中学习的技能延伸到另一个领域：你可以通过编写网页应用来学习 Rust，接着将同样的技能应用到你的 Raspberry Pi（树莓派）上。</p>
+</blockquote>
+</div>
+<h2 id="🎈或如你可以选择" tabindex="-1"><a class="header-anchor" href="#🎈或如你可以选择" aria-hidden="true">#</a> 🎈或如你可以选择</h2>
+<blockquote>
+<p>学习rust之前或许你可以看看</p>
 <ul>
 <li>[x] <a href="https://github.com/3293172751/Block_Chain/blob/master/web/README.md" target="_blank" rel="noopener noreferrer">计算机网络 – TCP/IP – 抓包 – Linux网络编程<ExternalLinkIcon/></a> （有一点网络基础就好）</li>
 <li>[x] <a href="https://github.com/3293172751/CS_COURSE/blob/master/linux/README.md" target="_blank" rel="noopener noreferrer">有Linux的基础<ExternalLinkIcon/></a></li>
@@ -20,10 +57,23 @@
 <li>[ ] <a href="https://github.com/3293172751/Block_Chain/blob/master/go-advancend/README.md" target="_blank" rel="noopener noreferrer">🖱️Go 高级篇<ExternalLinkIcon/></a></li>
 </ul>
 </blockquote>
+<div class="custom-container tip"><p class="custom-container-title">为什么会突发奇想</p>
+<p>一切都是可以串联出来的，从C –&gt; OS</p>
+<p>从 go –&gt; OS (对标mit的Go语言os)</p>
+<blockquote>
+<p>能跑gcc、nginx、redis、且和Linux差百分之五到百分之十。</p>
+</blockquote>
+<p>从rust –&gt; OS (对标斯坦福的CS140e)</p>
+<blockquote>
+<p>甚至可以在我喜欢的树莓派上面运行</p>
+</blockquote>
+<p>从blockchain –&gt;</p>
+</div>
 <div class="custom-container danger"><p class="custom-container-title">提醒</p>
-<p>⚠️ 注意：脑图页面可能没办法正常渲染，建议在下面📵<a href="https://xxw.nsddd.top/s/wRSz" target="_blank" rel="noopener noreferrer"><strong>不限速在线个人云盘</strong><ExternalLinkIcon/></a>里面找到docker脑图</p>
-<p><a href="/markdown/%E8%84%91%E5%9B%BE%E7%AC%94%E8%AE%B0"> 🖱️脑图下载</a></p>
-<p>图片当初是用sm图库，对于小时访问量有限制，后期会慢慢转到服务器中。</p>
+<p>⚠️ 注意：在这里我要隆重介绍下：清华大学rcore操作系统~ 用rust实现os~</p>
+<p>正如author（王润基）所说，rust带我走进了新世界的大门。</p>
+<p>🖱️<a href="https://github.com/rcore-os/rCore-Tutorial-v3" target="_blank" rel="noopener noreferrer">rcore操作系统<ExternalLinkIcon/></a></p>
+<p>我会慢慢的、慢慢的走近你的心里（u~os）</p>
 </div>
 <h2 id="📚目录" tabindex="-1"><a class="header-anchor" href="#📚目录" aria-hidden="true">#</a> 📚目录</h2>
 <p>🐋 1. <RouterLink to="/markdown/1.html">Docker概述</RouterLink></p>

@@ -1,7 +1,7 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":"Cub链学社（c-universal blockchain）"},["/index.html","/README.md"]],
   ["v-15406572","/rust/",{"title":"awesome-rust❇️"},["/rust/index.html","/rust/README.md"]],
-  ["v-90b26e94","/rust/markdown/1.html",{"title":"第1节"},["/rust/markdown/1","/rust/markdown/1.md"]],
+  ["v-90b26e94","/rust/markdown/1.html",{"title":"第1节 window安装rust"},["/rust/markdown/1","/rust/markdown/1.md"]],
   ["v-3d65526c","/rust/markdown/10.html",{"title":"第10节"},["/rust/markdown/10","/rust/markdown/10.md"]],
   ["v-3f1a2b0b","/rust/markdown/11.html",{"title":"第11节"},["/rust/markdown/11","/rust/markdown/11.md"]],
   ["v-40cf03aa","/rust/markdown/12.html",{"title":"第12节"},["/rust/markdown/12","/rust/markdown/12.md"]],
