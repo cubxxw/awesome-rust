@@ -4,7 +4,7 @@
  * @Date: 2022-09-14 11:48:44
  * @LastEditTime: 2022-10-05 16:53:46
  * @FilePath: \undefinedd:\文档\最近的\awesome-rust\docs\.vuepress\config.ts
- * @blog: https://nsddd.top
+ * @blog: https://cubxxw.com
  */
 import { defaultTheme } from 'vuepress'
 /* 导入插件 */
@@ -152,8 +152,8 @@ export default {
         sidebarDepth: 1,  //侧边菜单深度
     
         //logo -- 夜间和白剑
-        logoDark: 'https://sm.nsddd.top//typora/1.jpg?mail:3293172751@qq.com',
-        logo: 'https://sm.nsddd.top//typora/4.png?mail:3293172751@qq.com',
+        logoDark: 'https://sm.cubxxw.com//typora/1.jpg?mail:3293172751@qq.com',
+        logo: 'https://sm.cubxxw.com//typora/4.png?mail:3293172751@qq.com',
         
         // 到github修改页面 如果你按照 `organization组织/repository存储库` 的格式设置它
         // 我们会将它作为一个 GitHub 仓库
@@ -180,7 +180,7 @@ export default {
           '我们怎么到这来了？',
           '这是一个 404 页面',
           '看起来我们进入了错误的链接',
-          '你可以返回首页<href="https//docker.nsddd.top">首页</a>',
+          '你可以返回首页<href="https//docker.cubxxw.com">首页</a>',
         ],
         backToHome: '返回首页',
         // a11y
@@ -201,7 +201,7 @@ export default {
                   },
                   {
                     text: '我的博客',
-                    link: 'http://nsddd.top',
+                    link: 'http://cubxxw.com',
                     target: '_self',
                     // 该元素将一直处于激活状态
                     activeMatch: '/',
@@ -221,7 +221,7 @@ export default {
             },
             {
                 text: '📚Go语言学习',
-                link: 'https://go.nsddd.top',
+                link: 'https://go.cubxxw.com',
             },
             {
               text: '⛓️链学社组织',
@@ -239,7 +239,7 @@ export default {
             // SidebarItem
             {
                 text: '☁️DocCub云盘地址',
-                link: 'http://xxw.nsddd.top/s/q2FP?path=%2F'
+                link: 'http://xxw.cubxxw.com/s/q2FP?path=%2F'
             },
             {
               text: '📚Rust学习篇',
@@ -296,7 +296,7 @@ export default {
                 // '/foo/bar.md',
                 {
                     text: '💝如何参与贡献？',
-                    link: 'https://nsddd.top/archives/contributors',
+                    link: 'https://cubxxw.com/archives/contributors',
                   //   children: [],
                 },
               ],

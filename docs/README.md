@@ -3,7 +3,7 @@ home: true
 lang: zh-CN
 title: Cub链学社（c-universal blockchain）
 description: docker学习
-heroImage: https://sm.nsddd.top//typora/logo_transparent.png?mail:3293172751@qq.com
+heroImage: https://sm.cubxxw.com//typora/logo_transparent.png?mail:3293172751@qq.com
 heroText: Go语言篇
 tagline: 链学社在保障用户安全，信息的完整性同时为大众带来更多的选择，笔记分享，视频分享，版权保护，以及其他的关于学信数据、电子证书、荣誉证明、成绩证明、信息授权的相关工具。
 actions:
@@ -40,7 +40,7 @@ footer: 链学社 | Copyright © 2022-present Evan You
 
 **区块链技术（也称之为分布式账本技术）**，是一种互联网数据库技术，其特点是去中心化，公开透明，让每一个人均可参与的数据库记录
 
->   ❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客[http://nsddd.top](http://nsddd.top)
+>   ❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客[http://cubxxw.com](http://cubxxw.com)
 >
 >   <a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="我的区块链代码时长"> <img src="./images/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg+xml"> </a>
 
@@ -48,7 +48,7 @@ footer: 链学社 | Copyright © 2022-present Evan You
 
 # 🚸 Rust
 
-![下载](http://sm.nsddd.top/sm%E4%B8%8B%E8%BD%BD.pngmail3293172751@qq.png?xxw@nsddd.top)
+![下载](http://sm.cubxxw.com/sm%E4%B8%8B%E8%BD%BD.pngmail3293172751@qq.png?xxw@cubxxw.com)
 
 ## ⚡前言
 
@@ -245,13 +245,13 @@ java/C# 拥有GC，能够保证内存安全，也拥有很多优秀特性，但�
 
 + 🔗[**中国大陆加速地址（Gitee平台）**](https://gitee.com/xxw3293172751/Block_Chain)
 
-+ 📵[**不限速在线个人云盘**](https://xxw.nsddd.top/s/wRSz)
++ 📵[**不限速在线个人云盘**](https://xxw.cubxxw.com/s/wRSz)
 
   <p align='center'>
   <a href="https://gitee.com/xxw3293172751/Block_Chain"><img src="https://img.shields.io/badge/gitee-%40xxw3293172751-green?logo=gitee" title="国内gitee镜像加速"></a>
   <a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="项目的进展时长" > <img src="http://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg"></a>
   <a href="https://github.com/3293172751/cs-awesome-Block_Chain/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/3293172751/cs-awesome-Block_Chain?style=plastic"></a>
-  <a href="https://xxw.nsddd.top/s/wRSz"><img alt="个人网盘不限速" src="https://img.shields.io/badge/cloud-xiongxinwei-red?logo=iCloud" title="个人网盘不限速下载浏览"></a>
+  <a href="https://xxw.cubxxw.com/s/wRSz"><img alt="个人网盘不限速" src="https://img.shields.io/badge/cloud-xiongxinwei-red?logo=iCloud" title="个人网盘不限速下载浏览"></a>
   </p>
 
 <div align="center">
@@ -365,7 +365,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-
 >
 > <div align="center">
 > <a href="eth/TOC.md">
-> 	<img src="https://sm.nsddd.top//typora/image-20220630192622583.png?mail:3293172751@qq.com" alt="区块链的学习" style="zoom: 20%;" />
+> 	<img src="https://sm.cubxxw.com//typora/image-20220630192622583.png?mail:3293172751@qq.com" alt="区块链的学习" style="zoom: 20%;" />
 > </a></div>
 
 +  [🖱️区块链教程🔥](https://github.com/3293172751/cs-awesome-Block_Chain/blob/master/C_Universal_Brockchain/README.md)
@@ -380,7 +380,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-
 >
 > <div align="center">
 > <a href="https://github.com/C-UB">
-> 	<img src="https://sm.nsddd.top//typora/twitter_header_photo_1.png?mail:3293172751@qq.com" alt="twitter_header_photo_1" style="zoom: 20%;" />
+> 	<img src="https://sm.cubxxw.com//typora/twitter_header_photo_1.png?mail:3293172751@qq.com" alt="twitter_header_photo_1" style="zoom: 20%;" />
 > </a></div>
 >
 > 基于区块链的全民学习平台`C-Universal Blockchain`在保障用户安全，信息的完整性同时为大众带来更多的选择，笔记分享，视频分享，版权保护，以及其他的关于学信数据、电子证书、荣誉证明、成绩证明、信息授权的相关工具。
@@ -391,7 +391,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-
 
 ## ✨参与贡献💕
 
-**[🫵参与贡献💖❤️‍🩹💓💞](https://nsddd.top/archives/contributors)**
+**[🫵参与贡献💖❤️‍🩹💓💞](https://cubxxw.com/archives/contributors)**
 
 **要求：**
 
@@ -415,6 +415,6 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/3293172751/awesome-cs-
 
 ## 版权声明 &copy;
 
-[![GitHub license](https://sm.nsddd.top//typora/cs-awesome-Block_Chain?mail:3293172751@qq.com)](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0协议文本)
+[![GitHub license](https://sm.cubxxw.com//typora/cs-awesome-Block_Chain?mail:3293172751@qq.com)](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0协议文本)
 
 本书所有内容遵循[CC-BY-SA 3.0协议（署名-相同方式共享）&copy;](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0协议文本) 

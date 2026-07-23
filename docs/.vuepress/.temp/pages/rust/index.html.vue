@@ -2,12 +2,12 @@
 <hr>
 <p><strong>区块链技术（也称之为分布式账本技术）</strong>，是一种互联网数据库技术，其特点是去中心化，公开透明，让每一个人均可参与的数据库记录</p>
 <blockquote>
-<p>❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客<a href="http://nsddd.top" target="_blank" rel="noopener noreferrer">http://nsddd.top<ExternalLinkIcon/></a></p>
+<p>❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客<a href="http://cubxxw.com" target="_blank" rel="noopener noreferrer">http://cubxxw.com<ExternalLinkIcon/></a></p>
 <p><a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="我的区块链代码时长"> <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg"> </a></p>
 </blockquote>
 <hr>
 <h1 id="🚸-rust" tabindex="-1"><a class="header-anchor" href="#🚸-rust" aria-hidden="true">#</a> 🚸 Rust</h1>
-<p><img src="https://sm.nsddd.top//typora/下载.png?mail:3293172751@qq.com" alt="下载"></p>
+<p><img src="https://sm.cubxxw.com//typora/下载.png?mail:3293172751@qq.com" alt="下载"></p>
 <h2 id="⚡前言" tabindex="-1"><a class="header-anchor" href="#⚡前言" aria-hidden="true">#</a> ⚡前言</h2>
 <div class="custom-container warning"><p class="custom-container-title">为什么要学习rust?</p>
 <p>⛈️Rust是一种令人兴奋的新编程语言，它可以让每一个人编写可靠且高效的软件。</p>
